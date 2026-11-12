@@ -1,15 +1,24 @@
-# My journey
-I am learning Data engineering step by step
-Today I am learning git & github
-I have created a sub-branch
+## My Data Engineering Journey
 
-## Class 2: Linux Commands
+Ostad Data Engineering Bootcamp, Batch 01 — October 2026.
 
-- pwd
-- ls
-- cd
-- mkdir
-- grep
-- cut
-- sort
-- uniq
+This repository documents my six-month Data Engineering learning journey. It contains weekly assignments, practical exercises, notes, and projects.
+
+
+
+## About Me
+
+I am a professional web developer who recently completed a Machine Learning with Python course. I have now developed a strong interest in Data Engineering and want to build my career in this field.
+
+
+## Learning progress
+Week 01 - Introduction to Data Engineering, Linux Command Line
+Week 02 - Git, GitHub, Python Fundamentals
+
+
+## Technologies & Tools
+
+- Python
+- SQL
+- Linux
+- Git & GitHub
