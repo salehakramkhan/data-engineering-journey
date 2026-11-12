@@ -15,7 +15,7 @@ I am a professional web developer who recently completed a Machine Learning with
 ## Learning Progress
 
 | Week | Topics |
-|---|---|---|
+|---|---|
 | 01 | Introduction to Data Engineering, Linux Command Line |
 | 02 | Git, GitHub, Python Fundamentals | 
 
