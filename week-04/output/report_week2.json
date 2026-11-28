@@ -1,0 +1,32 @@
+{
+  "company": "ThelaGari",
+  "week": "2026-10-12 → 2026-10-18",
+  "counted": 16,
+  "cancelled": 2,
+  "grand_total": 8785.0,
+  "top_item": {
+    "item_name": "Miniket Chal 5kg",
+    "orders": 4,
+    "total_amount": 4341.75
+  },
+  "by_item": {
+    "Alu 2kg": 207.75,
+    "Apel 1kg": 1105.0,
+    "Broiler Murgi 1kg": 609.0,
+    "Chaa Pata 400g": 232.25,
+    "Dim 12pc": 441.75,
+    "Doodh 1L": 651.0,
+    "Miniket Chal 5kg": 4341.75,
+    "Peyaj 1kg": 146.5,
+    "Soybean Oil 2L": 1050.0
+  },
+  "by_date": {
+    "2026-10-12": 1614.75,
+    "2026-10-13": 2232.75,
+    "2026-10-14": 613.75,
+    "2026-10-15": 2095.0,
+    "2026-10-16": 293.75,
+    "2026-10-17": 1384.0,
+    "2026-10-18": 823.25
+  }
+}

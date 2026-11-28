@@ -1,0 +1,17 @@
+order_id,order_date,customer_name,item_name,quantity,amount,payment,status
+ORD100055,2026-10-12,Arif Hossain,Miniket Chal 5kg,1,620.25,bkash,delivered
+ORD100056,2026-10-12,Shirin Akter,Soybean Oil 2L,2,700.00,nagad,delivered
+ORD100057,2026-10-12,Nazmul Haque,Dim 12pc,2,294.50,cash on delivery,delivered
+ORD100058,2026-10-13,Rumana Begum,Miniket Chal 5kg,3,1860.75,bkash,delivered
+ORD100060,2026-10-13,Shirin Akter,Doodh 1L,4,372.00,nagad,delivered
+ORD100061,2026-10-14,Parvez Alam,Broiler Murgi 1kg,2,406.00,rocket,delivered
+ORD100062,2026-10-14,Arif Hossain,Alu 2kg,3,207.75,bkash,delivered
+ORD100063,2026-10-15,Lipi Khatun,Miniket Chal 5kg,2,1240.50,cash on delivery,delivered
+ORD100064,2026-10-15,Nazmul Haque,Chaa Pata 400g,1,232.25,bkash,returned
+ORD100065,2026-10-15,Jamil Uddin,Soybean Oil 2L,1,350.00,nagad,delivered
+ORD100066,2026-10-16,Shirin Akter,Peyaj 1kg,2,146.50,nagad,delivered
+ORD100067,2026-10-16,Rumana Begum,Dim 12pc,1,147.25,card,delivered
+ORD100068,2026-10-17,Parvez Alam,Apel 1kg,2,1105.00,bkash,delivered
+ORD100069,2026-10-17,Jamil Uddin,Doodh 1L,3,279.00,cash on delivery,delivered
+ORD100071,2026-10-18,Arif Hossain,Broiler Murgi 1kg,1,203.00,bkash,delivered
+ORD100072,2026-10-18,Nazmul Haque,Miniket Chal 5kg,1,620.25,nagad,delivered
